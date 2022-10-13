@@ -1,0 +1,12 @@
+D:\Demo\DEMO_Day_8\Onion_Architecture\OA.Data\bin\Debug\net6.0\OA.Data.deps.json
+D:\Demo\DEMO_Day_8\Onion_Architecture\OA.Data\bin\Debug\net6.0\OA.Data.dll
+D:\Demo\DEMO_Day_8\Onion_Architecture\OA.Data\bin\Debug\net6.0\OA.Data.pdb
+D:\Demo\DEMO_Day_8\Onion_Architecture\OA.Data\obj\Debug\net6.0\OA.Data.csproj.AssemblyReference.cache
+D:\Demo\DEMO_Day_8\Onion_Architecture\OA.Data\obj\Debug\net6.0\OA.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\Demo\DEMO_Day_8\Onion_Architecture\OA.Data\obj\Debug\net6.0\OA.Data.AssemblyInfoInputs.cache
+D:\Demo\DEMO_Day_8\Onion_Architecture\OA.Data\obj\Debug\net6.0\OA.Data.AssemblyInfo.cs
+D:\Demo\DEMO_Day_8\Onion_Architecture\OA.Data\obj\Debug\net6.0\OA.Data.csproj.CoreCompileInputs.cache
+D:\Demo\DEMO_Day_8\Onion_Architecture\OA.Data\obj\Debug\net6.0\OA.Data.dll
+D:\Demo\DEMO_Day_8\Onion_Architecture\OA.Data\obj\Debug\net6.0\refint\OA.Data.dll
+D:\Demo\DEMO_Day_8\Onion_Architecture\OA.Data\obj\Debug\net6.0\OA.Data.pdb
+D:\Demo\DEMO_Day_8\Onion_Architecture\OA.Data\obj\Debug\net6.0\ref\OA.Data.dll
